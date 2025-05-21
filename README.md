@@ -23,7 +23,6 @@ pip install -r requirements.txt
 ```python
 import nltk
 
-
 nltk.download('stopwords')
 nltk.download('punkt')
 ```
