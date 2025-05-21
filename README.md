@@ -15,7 +15,7 @@
 1. Install all required softwares and packages.
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 2. In the python console, download the `stopwords` and `punkt` corpus required by `nltk`.
